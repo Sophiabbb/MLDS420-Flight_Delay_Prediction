@@ -5,7 +5,7 @@
 
 Flight delays are a major inconvenience to passengers and a significant challenge for airlines and airports. In this project, we aim to develop predictive models to classify whether a flight will be delayed or not using a real-world dataset from the **Bureau of Transportation Statistics** and **NOAA**.
 
-Given the dataset's strong class imbalance (only ~19% of flights are delayed), we evaluate various classification algorithms with a particular focus on improving **F1-score**. Techniques such as **feature engineering** and **class weighting** are used to enhance model interpretability and performance.
+Given the dataset's strong class imbalance (only ~19% of flights are delayed), we evaluated various classification algorithms with a particular focus on improving **F1-score**. Techniques such as **feature engineering** and **class weighting** were used to enhance model interpretability and performance.
 
 ## Approach
 
