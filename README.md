@@ -59,7 +59,7 @@ To handle class imbalance (since only **18.9%** of flights are delayed), we appl
 
 ✅ **XGBoost with class weighting (4:1)** performed best with a good trade-off between **recall** and **precision** for detecting delayed flights.
 
-## Key Insights
+## Key Findings
 
 - **Departure time** is the strongest predictor of delays.
 - **Weather conditions** (precipitation, snow, wind speed) are crucial factors.
