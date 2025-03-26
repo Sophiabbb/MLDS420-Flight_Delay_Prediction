@@ -31,7 +31,7 @@ Given the dataset's strong class imbalance (only ~19% of flights are delayed), w
 ### 3. Model Training
 We experimented with several machine learning models, including:
 - **Logistic Regression**
-- **Decision Trees**
+- **Decision Tree**
 - **Random Forest**
 - **Gradient Boosting**
 - **Generalized Additive Model (GAM)**
@@ -89,6 +89,14 @@ To handle class imbalance (since only **18.9%** of flights are delayed), we appl
    - `dplyr`
    - `car`
 
+## Files Description
+- **Modeling.Rmd**: R Markdown file containing the code for model training and evaluation.
+- **Modeling.pdf**: PDF version of the Modeling.Rmd file for easier viewing.
+- **Project_Report.pdf**: Final report summarizing the entire project.
+- **README.md**: Project overview and guide for understanding and running the files.
+- **data_for_modeling_clean.Rmd**: R Markdown file focused on data cleaning and feature engineering.
+
+
 ## References
 
 - [Kaggle Dataset](https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations/data)
@@ -98,8 +106,8 @@ To handle class imbalance (since only **18.9%** of flights are delayed), we appl
 ---
 
 ## Contributors
-- **Fuqian Zou**
-- **Glenys Lion**
-- **Iris Lee**
-- **Kavya Bhat**
-- **Mingze Bian**
+- Fuqian Zou
+- Glenys Lion
+- Iris Lee
+- Kavya Bhat
+- Mingze Bian
