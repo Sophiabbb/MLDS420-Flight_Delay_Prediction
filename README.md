@@ -70,7 +70,7 @@ To handle class imbalance (since only **18.9%** of flights are delayed), we appl
 - **Modeling.Rmd**: R Markdown file containing the code for model training and evaluation.
 - **Modeling.pdf**: PDF version of the Modeling.Rmd file for easier viewing.
 - **Project_Report.pdf**: Final report summarizing the entire project.
-- **README.md**: Project overview and guide for understanding and running the files.
+- **README.md**: Project overview and documentation.
 - **data_for_modeling_clean.Rmd**: R Markdown file focused on data cleaning and feature engineering.
 
 ## How to Run
