@@ -1,5 +1,5 @@
 
-# ✈️ Flight Delay Prediction
+# Flight Delay Prediction
 
 ## Project Overview
 
@@ -57,7 +57,7 @@ To handle class imbalance (since only **18.9%** of flights are delayed), we appl
 | Random Forest (Weighted)  | 81.12%   | 52.38%    | 8.5%   | 14.63%   |
 | XGBoost (Weighted)    | **66.09%** | **29.95%** | **58.46%** | **39.61%** |
 
-✅ **XGBoost with class weighting (4:1)** performed best with a good trade-off between **recall** and **precision** for detecting delayed flights.
+**XGBoost with class weighting (4:1)** performed best with a good trade-off between **recall** and **precision** for detecting delayed flights.
 
 ## Key Findings
 
